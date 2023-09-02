@@ -2,5 +2,6 @@
 void main()
 {
   printf("hello fycs");
+  print("this is update");
 }
 
